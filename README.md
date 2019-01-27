@@ -35,7 +35,7 @@ Los comandos `\frotmatter`, `\mainmatter`, `\appendix` y `\backmatter` simplific
 - `\frontmatter`: Numeración de páginas usando números romanos y los capítulos no son numerados. En esta parte irán (en este orden) la página de título, agradecimientos, resumen, abstract y los índices: de figuras, de tablas y de algoritmos.
 - `\mainmatter`: Se reinicia la numeración de páginas, se usan números arábigos y los capítulos están numerados. En esta parte va el cuerpo de la tesis.
 - `\appendix`: La numeración de las páginas continúa sin ninguna modificación y los capítulos pasan a numerarse con letras desde la A. En esta parte se incluye material no esencial para la exposición principal. Algunos ejemplos pueden ser detalles de implementación no relevantes, anexos incluidos en el trabajo...
-- `\backmatter`: Las páginas y los capítulos dejan de numerarse. Aquí suele incluirse únicamente el índice de términos (si se usa) y la bibliografía (esto no puede faltar).
+- `\backmatter`: La numeración de las páginas continúa sin ninguna modificación y los capítulos dejan de numerarse. Aquí suele incluirse únicamente el índice de términos (si se usa) y la bibliografía (esto no puede faltar).
 
 ## Eliminado capítulo de trámites administrativos
 
