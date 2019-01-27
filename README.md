@@ -15,7 +15,7 @@ Para empezar a usarla simplemente escribe
 ```bash
 git clone https://github.com/jonatanlv/templateTFM.git
 ```
-desde una terminal y comenzar a modificar los archivos o directamente con el botón de descargar en la página del proyecto https://github.com/jonatanlv/templateTFM.
+desde una terminal y comenzar a modificar los archivos o directamente con el botón de `Clonar o descargar` en la página del proyecto o mediante el enlace https://github.com/jonatanlv/templateTFM/archive/master.zip.
 
 Si detectas un fallo o crees que algo se puede/debe hacer de otra forma te invito a colaborar en la plantilla, cualquier sugerencia será bienvenida.
 
